@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aesmithsci
 - 👀 I’m interested in game & web development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, Python
 - 💞️ I’m looking to collaborate on beginner material
 - 📫 How to reach me ... aesmithsci@gmail.com
 
